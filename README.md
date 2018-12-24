@@ -1,4 +1,6 @@
-[PT]  Esse projeto consiste na Análise de Sentimentos de tweets coletados através da API do Twitter sobre as eleições presidencias de 2018 no Brasil. O projeto consiste em:
+# [PT]  Análise de Sentimentos - Processamento de Linguagem Natural
+
+Esse projeto consiste na Análise de sentimentos de tweets coletados através da API do Twitter sobre as eleições presidencias de 2018 no Brasil. O projeto consiste em:
 
 1. Principais tweets coletados no período de 1 semana.
 2. Tweets mais curtidos e retweetados.
@@ -9,7 +11,9 @@
 7. Séries de tweets no tempo.
 8. Mapa de tweets utilizando a localização declarada pelos usuários.
 
-[EN] This project consists in the Analysis of Sentiments of tweets collected through the Twitter API on the presidential elections of Brazil in 2018. The project consists of:
+# [EN] Sentiment Analysis - Natural Language Processing
+
+[EN] This project consists in the Analysis of sentiments of tweets collected through the Twitter API on the presidential elections of Brazil in 2018. The project consists of:
 
 1. Top tweets collected in 1 week period.
 2. Tweets more liked and retweet.
@@ -20,5 +24,4 @@
 7. Tweets Time Series.
 8. Map of tweets using the location declared by users.
 
-[PT] Processamento de Linguagem Natural
-[EN] Natural Language Processing
+
